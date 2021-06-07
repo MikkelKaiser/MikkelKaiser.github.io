@@ -1,0 +1,2 @@
+//// Kill mongod
+sudo killall mongod
